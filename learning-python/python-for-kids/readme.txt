@@ -1,6 +1,7 @@
 Atividades realizadas do livro: 
 "ENSINE SEUS FILHOS A PROGRAMAR
-Um guia amig·vel aos pais para programaÁ„o python"
+Um guia amig√°vel aos pais para programa√ß√£o python"
 autor: Bryson Payne
-editora: novatedc
-cp = chapter / capÌtulo
+editora: novatec
+
+cp = chapter / cap√≠tulo
