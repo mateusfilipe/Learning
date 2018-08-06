@@ -1,7 +1,13 @@
-Atividades realizadas do livro: 
-"ENSINE SEUS FILHOS A PROGRAMAR
-Um guia amigável aos pais para programação python"
-autor: Bryson Payne
-editora: novatec
+<h2>Atividades realizadas do livro:</h2> 
 
-cp = chapter / capítulo
+<i>"ENSINE SEUS FILHOS A PROGRAMAR
+
+Um guia amigável aos pais para programação python"
+</i>
+
+<b>Autor:</b> Bryson Payne
+
+<b>Editora:</b> novatec
+
+
+<h6>cp = chapter / capítulo</h6>
