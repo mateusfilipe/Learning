@@ -1,3 +1,5 @@
-Exercícios feitos no  curso de Python3 do Curso em Vídeo 
+ExercÃ­cios feitos no  curso de Python3 do Curso em VÃ­deo 
+
 com Professor Gustavo Guanabara
+
 site > www.cursoemvideo.com
