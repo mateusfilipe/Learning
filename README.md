@@ -2,4 +2,6 @@
 Exercícios, códigos, atividades, etc.
 
 Visando aprender novas linguagens:
-- Python: Atual 
+- Atualmente trabalhand com:
+  - Python;
+  - Java;
