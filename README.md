@@ -5,7 +5,8 @@ Visando aprender novas linguagens:
 - Atualmente trabalhand com:
   - Python;
   - Java;
-  - JavaScript
+  - JavaScript;
+  - C#
 ```python
   print("Hello World!")
 ```
@@ -15,4 +16,7 @@ Visando aprender novas linguagens:
 ```
 ```javaScript
   document.writeln("Hello World!")
+```
+```cSharp
+  Console.WriteLine("Hello World!");
 ```
