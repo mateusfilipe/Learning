@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\bin\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.exe
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\bin\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.deps.json
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\bin\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\bin\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\bin\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.dll
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\bin\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.pdb
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.dll
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.pdb
+C:\Users\T-Gamer\source\repos\leitura-escalonamento-CSharp\leitura-escalonamento-CSharp\obj\Debug\netcoreapp3.1\leitura-escalonamento-CSharp.genruntimeconfig.cache
