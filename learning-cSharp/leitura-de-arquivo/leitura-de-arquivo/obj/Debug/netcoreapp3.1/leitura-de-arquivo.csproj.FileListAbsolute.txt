@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\bin\Debug\netcoreapp3.1\leitura-de-arquivo.exe
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\bin\Debug\netcoreapp3.1\leitura-de-arquivo.deps.json
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\bin\Debug\netcoreapp3.1\leitura-de-arquivo.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\bin\Debug\netcoreapp3.1\leitura-de-arquivo.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\bin\Debug\netcoreapp3.1\leitura-de-arquivo.dll
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\bin\Debug\netcoreapp3.1\leitura-de-arquivo.pdb
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.dll
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.pdb
+C:\Users\T-Gamer\source\repos\leitura-de-arquivo\leitura-de-arquivo\obj\Debug\netcoreapp3.1\leitura-de-arquivo.genruntimeconfig.cache
