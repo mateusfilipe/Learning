@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\bin\Debug\netcoreapp3.1\Pilha.exe
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\bin\Debug\netcoreapp3.1\Pilha.deps.json
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\bin\Debug\netcoreapp3.1\Pilha.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\bin\Debug\netcoreapp3.1\Pilha.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\bin\Debug\netcoreapp3.1\Pilha.dll
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\bin\Debug\netcoreapp3.1\Pilha.pdb
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.dll
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.pdb
+C:\Users\T-Gamer\source\repos\Pilha\Pilha\obj\Debug\netcoreapp3.1\Pilha.genruntimeconfig.cache
