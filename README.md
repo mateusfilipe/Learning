@@ -2,7 +2,7 @@
 Exercícios, códigos, atividades, etc.
 
 Visando aprender novas linguagens:
-- Atualmente trabalhand com:
+- Atualmente treinando:
   - Python;
   - Java;
   - JavaScript;
