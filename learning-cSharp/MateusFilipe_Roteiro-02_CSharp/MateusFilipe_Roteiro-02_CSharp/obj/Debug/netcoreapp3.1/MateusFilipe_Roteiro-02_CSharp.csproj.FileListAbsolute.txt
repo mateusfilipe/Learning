@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\bin\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.exe
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\bin\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.deps.json
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\bin\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\bin\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\bin\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.dll
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\bin\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.pdb
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.dll
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.pdb
+C:\Users\T-Gamer\source\repos\MateusFilipe_Roteiro-02_CSharp\MateusFilipe_Roteiro-02_CSharp\obj\Debug\netcoreapp3.1\MateusFilipe_Roteiro-02_CSharp.genruntimeconfig.cache
